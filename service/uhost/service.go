@@ -3,8 +3,8 @@ package uhost
 import (
 	"net/http"
 
-	"github.com/ucloud/ucloud-sdk-go/ucloud"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/service"
+	"github.com/chanyipiaomiao/ucloud-sdk-go/ucloud"
+	"github.com/chanyipiaomiao/ucloud-sdk-go/ucloud/service"
 )
 
 // UHost api service for UHost

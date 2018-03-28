@@ -9,9 +9,9 @@ import (
 	"net/url"
 	"reflect"
 
-	"github.com/ucloud/ucloud-sdk-go/ucloud"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/uclouderr"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/utils"
+	"github.com/chanyipiaomiao/ucloud-sdk-go/ucloud"
+	"github.com/chanyipiaomiao/ucloud-sdk-go/ucloud/uclouderr"
+	"github.com/chanyipiaomiao/ucloud-sdk-go/ucloud/utils"
 )
 
 type Service struct {
