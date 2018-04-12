@@ -3,8 +3,8 @@ package ulb
 import (
 	"net/http"
 
-	"github.com/ucloud/ucloud-sdk-go/ucloud"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/service"
+	"github.com/chanyipiaomiao/ucloud-sdk-go/ucloud"
+	"github.com/chanyipiaomiao/ucloud-sdk-go/ucloud/service"
 )
 
 type ULB struct {

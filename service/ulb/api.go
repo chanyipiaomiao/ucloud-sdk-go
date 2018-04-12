@@ -1,7 +1,7 @@
 package ulb
 
 import (
-	"github.com/ucloud/ucloud-sdk-go/ucloud"
+	"github.com/chanyipiaomiao/ucloud-sdk-go/ucloud"
 )
 
 // ULB
