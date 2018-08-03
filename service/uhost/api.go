@@ -30,6 +30,7 @@ type CreateUHostInstanceParams struct {
 	BootDiskSpace   int
 	VPCId           string
 	SubnetId        string
+	HotplugFeature  bool
 }
 
 type CreateUHostInstanceResponse struct {
