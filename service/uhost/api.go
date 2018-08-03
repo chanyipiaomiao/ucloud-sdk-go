@@ -28,6 +28,8 @@ type CreateUHostInstanceParams struct {
 	Tag             string
 	CouponId        string
 	BootDiskSpace   int
+	VPCId           string
+	SubnetId        string
 }
 
 type CreateUHostInstanceResponse struct {
